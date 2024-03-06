@@ -1,28 +1,9 @@
 /* Global Style */
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "verdana";
   margin: 0;
   padding: 0;
   background-color: #F1F0EA;
-}
-
-/* images styling */
-.iit {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.posty {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.navistar {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* h1 tags */
@@ -39,10 +20,10 @@ h2 {
 /* section tags */
 section {
   margin: 20px auto;
-  max-width: 800px;
+  max-width: 900px;
   background-color: #E0DDCF;
   padding: 20px;
-  border-radius: 20px;
+  border-radius: 15px;
   border: 2px solid #333;
 }
 
@@ -55,8 +36,8 @@ nav {
 
 nav ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
 }
 
 nav ul li {
@@ -66,7 +47,9 @@ nav ul li {
 nav a {
   padding: 14px 16px;
   font-size: 17px;
-
+  text-decoration: none; 
+  color: #E0DDCF;
+  
 }
 
 nav a:hover {
@@ -77,3 +60,64 @@ nav a.active {
   background-color: aliceblue;
 }
 
+/* images styling */
+.iit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+  width: auto;
+}
+
+.posty {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+  width: auto;
+}
+
+.navistar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 275px;
+  width: auto;
+}
+
+.hitchhiker {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.baseball {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+  width: auto;
+}
+
+.john {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+  width: auto;
+}
+
+.hawaii {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+  width: auto;
+}
+
+.video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 350px;
+}
