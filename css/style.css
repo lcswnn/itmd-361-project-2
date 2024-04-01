@@ -1,6 +1,6 @@
 /* Global Style */
 body {
-  font-family: "verdana";
+  font-family: "verdana", "Lucida Console", "Times New Roman";
   margin: 0;
   padding: 0;
   background-color: #F1F0EA;
@@ -67,6 +67,7 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
+  position: relative;
 }
 
 .posty {
@@ -75,6 +76,7 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
+  
 }
 
 .navistar {
