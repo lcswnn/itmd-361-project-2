@@ -25,7 +25,32 @@ section {
   background-color: #E0DDCF;
   padding: 20px;
   border-radius: 15px;
-  border: 2px solid #333;
+  border: 3px solid #333;
+}
+
+#movie {
+  position: static;
+}
+#book {
+  height: auto;
+  overflow: hidden;
+}
+#book .hitchhiker {
+  float: left;
+  margin-right: 15px;
+  margin-left: 30px;
+}
+#book p {
+  margin: 100px;
+}
+#sport {
+  position: static;
+}
+#music {
+  position: static;
+}
+#place {
+  position: static;
 }
 
 /* Nav Bar Styling */
@@ -36,6 +61,7 @@ nav {
   overflow: hidden;
   top: 0px;
   position: fixed;
+  z-index: 1;
 }
 
 nav ul {
