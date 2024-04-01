@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #F1F0EA;
+  margin-top: 80px;
 }
 
 /* h1 tags */
@@ -33,6 +34,8 @@ nav {
   text-align: center;
   background-color: #534B52;
   overflow: hidden;
+  top: 0px;
+  position: fixed;
 }
 
 nav ul {
@@ -68,7 +71,6 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
-  position: relative;
 }
 
 .posty {
