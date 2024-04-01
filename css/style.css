@@ -22,7 +22,7 @@ h2 {
 section {
   margin: 20px auto;
   max-width: 900px;
-  background-color: #E0DDCF;
+  background-color: #e0ddcf;
   padding: 20px;
   border-radius: 15px;
   border: 3px solid #333;
@@ -108,6 +108,7 @@ nav a.active {
   width: auto;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 .posty {
@@ -118,6 +119,7 @@ nav a.active {
   width: auto;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 .navistar {
@@ -128,6 +130,7 @@ nav a.active {
   width: auto;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 .hitchhiker {
@@ -136,6 +139,7 @@ nav a.active {
   margin-right: auto;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 .baseball {
@@ -146,6 +150,7 @@ nav a.active {
   width: auto;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 .john {
@@ -156,6 +161,7 @@ nav a.active {
   width: auto;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 .hawaii {
@@ -166,6 +172,7 @@ nav a.active {
   width: auto;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 .video {
@@ -177,6 +184,7 @@ nav a.active {
   border: 0px;
   border-radius: 15px;
   border: 4px solid #333;
+  box-shadow: 4px 4px 2px #aba99e;
 }
 
 footer {
