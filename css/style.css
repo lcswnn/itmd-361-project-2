@@ -28,6 +28,14 @@ section {
   border: 3px solid #333;
 }
 
+.home h2 {
+  text-align: center;
+}
+
+.information h2 {
+  text-align: center;
+}
+
 .favorites {
   margin: 0 20px;
   display: grid;
@@ -98,6 +106,8 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 .posty {
@@ -106,7 +116,8 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
-  
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 .navistar {
@@ -115,12 +126,16 @@ nav a.active {
   margin-right: auto;
   height: 275px;
   width: auto;
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 .hitchhiker {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 .baseball {
@@ -129,6 +144,8 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 .john {
@@ -137,6 +154,8 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 .hawaii {
@@ -145,6 +164,8 @@ nav a.active {
   margin-right: auto;
   height: 350px;
   width: auto;
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 .video {
@@ -154,6 +175,8 @@ nav a.active {
   height: 350px;
   width: 600px;
   border: 0px;
+  border-radius: 15px;
+  border: 4px solid #333;
 }
 
 footer {
